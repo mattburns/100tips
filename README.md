@@ -24,6 +24,7 @@
 1. In browser address bar, press `ctrl-enter` to surround word with `http://` and `.com`
 1. Many websites show a keyboard shortcut cheatsheet when you press `?` (eg. gmail, twitter, github)
 1. Highlight a word with a double-click. Highlight the line with a triple-click
+1. Step through gmail threads with `j` and `k`. Step through emails within a thread with `b` and `p`
 
 
 Ok, I haven't thought of 100 yet, please help!

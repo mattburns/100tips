@@ -21,6 +21,9 @@
 1. Use ``cmd-` `` to toggle between multiple windows of current app
 1. Keep system clean by using package manager like `homebrew`
 
+    ## Git / Releases
+1. Got a release to do but have some local changes (some needed, some not). Commit the ones you need and `git stash` the rest. Get them back after with `git stash apply` or check whats stashed with `git stash list`.
+
     ## General
 1. In browser address bar, press `ctrl-enter` to surround word with `http://` and `.com`
 1. Many websites show a keyboard shortcut cheatsheet when you press `?` (eg. gmail, twitter, github)

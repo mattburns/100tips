@@ -19,12 +19,14 @@
 1. On OSX, press `alt-]` or `alt-shift-]` to get typographic apostrophes `‘` and `’`
 1. Use `cmd-tab` to toggle between open apps
 1. Use ``cmd-` `` to toggle between multiple windows of current app
+1. Keep system clean by using package manager like `homebrew`
 
     ## General
 1. In browser address bar, press `ctrl-enter` to surround word with `http://` and `.com`
 1. Many websites show a keyboard shortcut cheatsheet when you press `?` (eg. gmail, twitter, github)
 1. Highlight a word with a double-click. Highlight the line with a triple-click
 1. Step through gmail threads with `j` and `k`. Step through emails within a thread with `b` and `p`
+1. Keep lots of bookmarks within easy reach using the bookmarks bar. Remove any text to leave just the favicon
 
 
 Ok, I haven't thought of 100 yet, please help!

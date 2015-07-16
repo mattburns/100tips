@@ -23,6 +23,7 @@
 
     ## Git / Releases
 1. Got a release to do but have some local changes (some needed, some not). Commit the ones you need and `git stash` the rest. Get them back after with `git stash apply` or check whats stashed with `git stash list`.
+1. Enable colour: `git config --global color.ui auto`
 
     ## General
 1. In browser address bar, press `ctrl-enter` to surround word with `http://` and `.com`

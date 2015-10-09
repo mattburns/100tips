@@ -13,8 +13,9 @@
 1. Search your command history with `ctrl-r` and start typing the command
 
     ## IntelliJ IDEA
-1. `ctrl-space` to suggest alternatives using code-complete.
+1. `ctrl-space` to suggest alternatives using code-complete
 1. Select suggestion with `enter` to insert, or `tab` to overwrite
+1. `shift shift` to open the search box. Type the first few letters of each part to search, eg. "nullpoiexcep"
  
     ## OSX
 1. On OSX, press `alt-]` or `alt-shift-]` to get typographic apostrophes `‘` and `’`

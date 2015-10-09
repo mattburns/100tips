@@ -21,6 +21,9 @@
 1. Use `cmd-tab` to toggle between open apps
 1. Use ``cmd-` `` to toggle between multiple windows of current app
 1. Keep system clean by using package manager like `homebrew`
+1. `cmd-space` to open spotlight search
+1. Press `cmd` when looking at spotlight search results to show location of result
+1. Hold `cmd` when clicking spotlight result to show in finder rather than with default app
 
     ## Git / Releases
 1. Got a release to do but have some local changes (some needed, some not). Commit the ones you need and `git stash` the rest. Get them back after with `git stash apply` or check whats stashed with `git stash list`.

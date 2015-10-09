@@ -10,6 +10,7 @@
 1. Resume remote sessions using `screen`
 1. Time long command with `time`
 1. Symlink your dotfiles (`.vimrc` etc.) to Dropbox / Google drive for consitent settings across devices (company?)
+1. Search your command history with `ctrl-r` and start typing the command
 
     ## IntelliJ IDEA
 1. `ctrl-space` to suggest alternatives using code-complete.

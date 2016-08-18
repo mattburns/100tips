@@ -16,6 +16,7 @@
 1. `ctrl-space` to suggest alternatives using code-complete
 1. Select suggestion with `enter` to insert, or `tab` to overwrite
 1. `shift shift` to open the search box. Type the first few letters of each part to search, eg. "nullpoiexcep"
+1. `"sout"` + `tab` to insert `System.out.println();`
  
     ## OSX
 1. On OSX, press `alt-]` or `alt-shift-]` to get typographic apostrophes `‘` and `’`

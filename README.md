@@ -5,7 +5,8 @@
 ## Tabbed apps (Chrome/Firefox/iTerm etc)
 1. `cmd-n` to select a particular tab, where `n` is 1-8 (`cmd-9` to select last)
 1. `cmd-+`, `cmd--` to zoom in and out (`cmd-0` to restore the zoom level to 100%)
-    
+1. `ctrl-tab` to select next tab to right (add `shift` to go left)
+
     ## *nix
 1. Resume remote sessions using `screen`
 1. Time long command with `time`
@@ -36,7 +37,7 @@
 
     ## General
 1. In browser address bar, press `ctrl-enter` to surround word with `www.` and `.com`
-1. Many websites show a keyboard shortcut cheatsheet when you press `?` (eg. gmail, twitter, github)
+1. Many websites show a keyboard shortcut cheatsheet when you press `?` (eg. gmail, twitter, github) (`cmd-/` in Slack)
 1. Highlight a word with a double-click. Highlight the line with a triple-click
 1. Step through gmail threads with `j` and `k`. Step through emails within a thread with `b` and `p`
 1. Keep lots of bookmarks within easy reach using the bookmarks bar. Remove any text to leave just the favicon

@@ -2,7 +2,7 @@
 
 100 tips for developers. Hopefully most will be obvious. Suggestions welcome.
 
-## Tabbed apps (Chrome/Firefox/iTerm etc)
+    ## Tabbed apps (Chrome/Firefox/iTerm etc)
 1. `cmd-n` to select a particular tab, where `n` is 1-8 (`cmd-9` to select last)
 1. `cmd-+`, `cmd--` to zoom in and out (`cmd-0` to restore the zoom level to 100%)
 1. `ctrl-tab` to select next tab to right (add `shift` to go left)
@@ -30,6 +30,7 @@
 1. In display settings, hold `alt` when clicking `scaled` to see full list of resolution options
 1. In Finder, in column view, hold `alt` when adjusting width to adjust all simultaneously
 1. In Finder, `shift-cmd-.` to toggle hidden files/folders
+1. In Finder, `shift-cmd-p` to show breadcrumb trail
 
     ## Git / Releases
 1. Got a release to do but have some local changes (some needed, some not). Commit the ones you need and `git stash` the rest. Get them back after with `git stash apply` or check whats stashed with `git stash list`.

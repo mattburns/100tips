@@ -18,7 +18,11 @@
 1. Select suggestion with `enter` to insert, or `tab` to overwrite
 1. `shift shift` to open the search box. Type the first few letters of each part to search, eg. "nullpoiexcep"
 1. `"sout"` + `tab` to insert `System.out.println();`
- 
+
+    ## Visual Studio Code
+1. `alt-click` new multicursor
+1. `alt-shift-down` duplicate line
+
     ## macOS
 1. On macOS, press `alt-]` or `alt-shift-]` to get typographic apostrophes `‘` and `’`
 1. Use `cmd-tab` to toggle between open apps
@@ -42,6 +46,12 @@
 1. Highlight a word with a double-click. Highlight the line with a triple-click
 1. Step through gmail threads with `j` and `k`. Step through emails within a thread with `b` and `p`
 1. Keep lots of bookmarks within easy reach using the bookmarks bar. Remove any text to leave just the favicon
+
+    ## Slack
+1. Choose workspace is like choosing tabs: `cmd-n` to select a particular workspace, where `n` is number
+1. Switch channel `alt-up` or `alt-down`
+1. When in "All Unreads", marks all as read with `r`
+
 
 
 Ok, I haven't thought of 100 yet, please help!
